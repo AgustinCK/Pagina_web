@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://golgrube-kegelcenter.de/sitemap.xml
